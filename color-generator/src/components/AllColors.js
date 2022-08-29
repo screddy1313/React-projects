@@ -44,13 +44,18 @@ function AllColors() {
         <div className="details">
           <h4>
             Written by{" "}
-            <a className="name" href="https://sarathchandra.me/">
+            <a
+              className="name"
+              target={"blank"}
+              href="https://sarathchandra.me/"
+            >
               Sarath
             </a>
           </h4>
           <a
             className="code"
-            href="https://github.com/screddy1313/React-projects"
+            target={"blank"}
+            href="https://github.com/screddy1313/React-projects/tree/main/color-generator"
           >
             Source Code
           </a>
